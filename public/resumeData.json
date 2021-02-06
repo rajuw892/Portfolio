@@ -99,6 +99,12 @@
     "projects": [
 
       {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://netflixclone-edd85.web.app/"
+      },
+      {
         "title": "LinkedIn Clone (React JS)",
         "category": "",
         "image": "linkedin.png",
